@@ -1,3 +1,6 @@
+*.txt
+*.PrjPCBStructure
+*.md
 Examples/
 History/
 Library/
@@ -7,6 +10,3 @@ Project Logs for PCB_Project2/
 Project Logs for PCB_Project3/
 Project Outputs for PCB_Project1/
 Templates/
-*.txt
-*.md
-*.PrjPCBStructure
