@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=L1 Old Footprint=Inductor_SMD New Footprint=L-SMD-M-7.3x4.5
+Added Component: Designator=L?(L-SMD-M-7.3x4.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=machnguon Member=Component C1 104
+Added Member To Class: ClassName=machnguon Member=Component C2 22uF
+Added Member To Class: ClassName=machnguon Member=Component C2 100uF
+Added Member To Class: ClassName=machnguon Member=Component L? 150mH

@@ -1,0 +1,17 @@
+Change Component Comment : Designator=R2 Old Comment=3K1 New Comment=3K
+Change Component Comment : Designator=C2 Old Comment=22uF New Comment=22uF/50V
+Change Component Comment : Designator=C1 Old Comment=100uF New Comment=100uF/25V
+Change Component Comment : Designator=C2 Old Comment=100uF New Comment=100uF/25V
+Change Component Comment : Designator=C1 Old Comment=104 New Comment=0.1uF/50V
+Change Component Comment : Designator=L? Old Comment=150mH New Comment=20mH
+Change Component Designator: OldDesignator=C1 NewDesignator=C4
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=DIO? NewDesignator=D2
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_2
+Added Member To Class: ClassName=machnguon Member=Component C3 22uF/50V
+Added Member To Class: ClassName=machnguon Member=Component C4 0.1uF/50V
+Added Room: Name=machnguon
