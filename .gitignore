@@ -1,6 +1,6 @@
 *.txt
 *.log
-*PCB_Project/History/									
+*History/									
 *Project Logs for machnguon/
 *debug/
 *_previews/
